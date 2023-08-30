@@ -11,3 +11,6 @@ Write a function called solution(s) which takes in a string and returns the deci
 
 ## Solution
 Read [my solution](solution.py)
+Read [ChatGPT solution](chatGptSolution.py)
+
+Yup. python programmer are doomd 😂🤣
