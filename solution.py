@@ -21,7 +21,9 @@ def solution(encrypted_message):
     # print as a check point to make the alphabet are indeed reversed.
     print(alphabet_reversed)
 
+    for letter in encrypted_message:
+        get_encrypted_letter_index = alphabet_reversed.index(letter)
+        print(get_encrypted_letter_index)
 
 
-
-solution("vmxibkgrlm P . ?")
+solution("vmxibkgrlm")
