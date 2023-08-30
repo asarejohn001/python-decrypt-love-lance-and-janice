@@ -23,13 +23,10 @@ def solution(encrypted_message):
 
     message = ""
     for letter in encrypted_message:
-        if letter == alphabet_reversed:
-            get_encrypt_index = alphabet_reversed.index(letter)
-            decrypted_letter = alphabet_list[get_encrypt_index]
-            message += decrypted_letter
-        else:
-            message += letter
-    print(message)
+        get_encrypted_index = alphabet_reversed.index(letter)
+
+        decrypted_letter = alphabet_list[get_encrypted_index]
+        print(decrypted_letter)
 
 
 solution("vmxibkgrlm")
