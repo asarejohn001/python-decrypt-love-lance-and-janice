@@ -22,9 +22,12 @@ def solution(encrypted_message):
     print(alphabet_reversed)
 
     for letter in encrypted_message:
-        encrypted_letter_index = alphabet_reversed.index(letter)
-        decrypted_letter = alphabet_list[encrypted_letter_index]
-        print(decrypted_letter)
+        if letter == encrypted_message:
+            encrypted_letter_index = alphabet_reversed.index(letter)
+            decrypted_letter = alphabet_list[encrypted_letter_index]
+            print(decrypted_letter)
+        else:
+            return letter
 
 
 solution("vmxibkgrlm P . ?")
