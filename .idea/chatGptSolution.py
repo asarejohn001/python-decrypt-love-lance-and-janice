@@ -1,3 +1,4 @@
+#push
 def solution(s):
     deciphered = ''
 
