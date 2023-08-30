@@ -13,4 +13,4 @@ Write a function called solution(s) which takes in a string and returns the deci
 1. Read [my solution](solution.py)
 2. Read [ChatGPT solution](chatGptSolution.py)
 
-Yup. python programmer are doomd 😂🤣
+Yup, python programmer are doomd 😂🤣. AI is coming for my future job. I need to look for another career. 
