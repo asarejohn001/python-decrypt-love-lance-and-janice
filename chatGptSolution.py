@@ -1,4 +1,5 @@
-#push
+# chat gpt version
+# python programmers are doom
 def solution(s):
     deciphered = ''
 
