@@ -10,5 +10,4 @@ Fortunately for you, the minions aren't exactly advanced cryptographers. In thei
 Write a function called solution(s) which takes in a string and returns the deciphered string so you can show the commander proof that these minions are talking about ""Lance & Janice"" instead of doing their jobs.
 
 ## Solution
-Read the [solution.py](My solution python code)
-Read 
+Read [my solution](solution.py)
